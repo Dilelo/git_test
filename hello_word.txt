@@ -1,1 +1,2 @@
 This is the first text line I'm writing in VSCODE! Hey!
+Now I'll try to commit without a message (-m)
